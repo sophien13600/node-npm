@@ -1,0 +1,8 @@
+10 12 14
+5 7 9 11
+16 18
+
+
+lire les notes
+calculer la moyenne de chaque ligne
+inscrire les moyenne dans un fichier txt dans le meme ordre
